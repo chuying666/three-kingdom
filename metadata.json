@@ -1,0 +1,8 @@
+{
+  "name": "Remix 三国杀 Online - 经典双人联机对战",
+  "description": "正统三国杀双人真人联网对决，含魏蜀吴群四大势力武将、完整牌堆与装备锦囊、真实服务器权威判定与回合状态机。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
